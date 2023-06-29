@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+h1 {
+    background-color: pink;
+    color: black;
+    width: 100%;
+    height: 50px;
+    padding-top: 20px;
+}
+
+main {
+    background-color: rgb(210, 250, 250);
+
+}
+
+.task1 {
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 400px;
+    margin: 100px 10px;
+    height: 200px;
+    display: inline-block;
+}
+
+.Mtitle {
+    background-color: pink;
+    color: black;
+    border-radius: 50px 50px 0 0;
+    height: 80px;
+    padding-top: 30px;
+}
+
+.details {
+    padding: 30px;
+}
+
+a {
+    text-decoration: none;
+    background-color: bisque;
+    color: black;
+    border-radius: 50px;
+}
+
+a:hover {
+    background-color: palevioletred;
+    color: white;
+}
+
+a:active {
+    background-color: blanchedalmond;
+    color: black;
+}
